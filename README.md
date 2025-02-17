@@ -13,7 +13,7 @@ Key capabilities include:
 
 ## Documentation
 
-Detailed documentation is available in the following sections:
+Phase 1, Training Product:
 
 - [Project Overview](documentation/project-overview.md)
 - [Technical Stack](documentation/tech-stack.md)
@@ -22,6 +22,14 @@ Detailed documentation is available in the following sections:
 - [Project Structure](documentation/project-structure.md)
 - [Implementation Guide](documentation/implementation.md)
 - [Requirements](documentation/requirements.md)
+
+Phase 2, Video Detection Engine:
+
+- [Video Detection Engine](documentation/video-detection.md)
+
+Phase 3, Web-Based Dashboard:
+
+- Coming Soon!
 
 ## Deploying to AWS
 
