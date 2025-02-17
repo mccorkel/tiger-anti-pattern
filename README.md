@@ -1,16 +1,27 @@
-## AWS Amplify Next.js (Pages) Starter Template
-
-This repository provides a starter template for creating applications using Next.js (Pages) and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
+## Tiger Anti-Pattern Detection
 
 ## Overview
 
-This template equips you with a foundational Next.js application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+Tiger Anti-Pattern Detection is an AI-driven video analysis system designed to enhance learning efficiency and academic integrity in digital learning environments. The system uses advanced video processing to detect and classify student behaviors in real-time, identifying anti-patterns such as distractions, ineffective study habits, and potential academic integrity concerns.
 
-## Features
+Key capabilities include:
+- Real-time behavior detection and classification
+- AI-powered video analysis using AWS Rekognition
+- Comprehensive dashboard for behavior tracking and analytics
+- Training tools for continuous AI model improvement
+- Actionable insights for educators and institutions
 
-- **Authentication**: Setup with Amazon Cognito for secure user authentication.
-- **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
-- **Database**: Real-time database powered by Amazon DynamoDB.
+## Documentation
+
+Detailed documentation is available in the following sections:
+
+- [Project Overview](documentation/project-overview.md)
+- [Technical Stack](documentation/tech-stack.md)
+- [Feature Details](documentation/features.md)
+- [User Flow](documentation/user-flow.md)
+- [Project Structure](documentation/project-structure.md)
+- [Implementation Guide](documentation/implementation.md)
+- [Requirements](documentation/requirements.md)
 
 ## Deploying to AWS
 
